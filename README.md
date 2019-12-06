@@ -1,6 +1,5 @@
 # SMPGL
 
-[![lic-image]][lic-url]
 
 This repository contains the implementation details of our paper: [IEEE Transactions on Instrumentation and Measurement]
 "[**Sparse Multiperiod Group Lasso for Bearing Multifault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/8675767)" 
@@ -48,4 +47,3 @@ If you feel our SMPGL is useful for your research, please consider citing our pa
 ```
 ## Contact
 - zhibinzhao1993@gmail.com
-[lic-image]: https://img.shields.io/aur/license/pac.svg
